@@ -1,0 +1,39 @@
+body {
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+main {
+	flex: 1 0 auto;
+}
+
+.parrafo {
+	text-align: justify;
+	font-size: 18px;
+}
+
+.activo {
+	background-color: #512da8;
+	border: 22px solid #512da8;
+}
+
+.fuente1 {
+	font-family: 'Gaegu', cursive;
+}
+
+.fuente2 {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.fuente3 {
+	font-family: 'Quicksand', sans-serif;
+}
+
+.fuente4 {
+	font-family: 'Permanent Marker', cursive;
+}
+
+.fuente5 {
+	font-family: 'Kalam', cursive;
+}
